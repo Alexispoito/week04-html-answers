@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Table</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            padding: 20px;
+        }
+
+        table {
+            width: 60%;
+            margin: 0 auto;
+            border-collapse: collapse;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #4CAF50;
+            color: white;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        tr:nth-child(odd) {
+            background-color: #ffffff;
+        }
+
+        tr:hover {
+            background-color: #d1e7dd;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="text-align: center; color: #333;">Event Table</h1>
+    <table>
+        <tr>
+            <th colspan="3">Event Details</th> <!-- Merged header cell using colspan -->
+        </tr>
+        <tr>
+            <th>Event Name</th>
+            <th>Date</th>
+            <th>Location</th>
+        </tr>
+        <tr>
+            <td>Freshman Orientation</td>
+            <td>August 15, 2025</td>
+            <td>PalSU Gymnasium</td>
+        </tr>
+        <tr>
+            <td>Science Month</td>
+            <td>September 12, 2025</td>
+            <td>PalSU College of Sciences</td>
+        </tr>
+        <tr>
+            <td>Intramurals</td>
+            <td>December 5, 2025</td>
+            <td>Upcoming</td>
+        </tr>
+    </table>
+</body>
+</html>
