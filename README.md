@@ -30,19 +30,19 @@ Creating forms and making Tables
  
   
 ### Activity #2 Answer
-![Image 1](images/Intermediate_A2.png)
+![Image 2](images/Intermediate_A2.png)
  
   
 ### Activity #3 Answer
-![Image 1](images/Intermediate_A3.png)
+![Image 3](images/Intermediate_A3.png)
   
   
 ### Activity #4 Answer
-![Image 1](images/Intermediate_A4.png)
+![Image 4](images/Intermediate_A4.png)
   
   
 ### Activity #5 Answer
-![Image 1](images/Intermediate_A5.png)
+![Image 5](images/Intermediate_A5.png)
 
 
 
